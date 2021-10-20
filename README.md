@@ -1,2 +1,2 @@
 # minesweeper-agent
-Agent that player minesweeper
+Agent that plays minesweeper
